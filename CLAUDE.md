@@ -1,5 +1,5 @@
 @LP-coaching-antoine-chauffrut.md
-@/Users/antoine.baches/AI sandbox/cosmic/projets/sillage.md
+@/Users/antoine.baches/AI sandbox/OUTILS/cosmic/projets/sillage.md
 
 Le contexte est dans `LP-coaching-antoine-chauffrut.md` (importé ci-dessus), le pilotage dans COSMIC (importé depuis le Mac, absent des sessions cloud). Repo public : rien de privé ici.
 
